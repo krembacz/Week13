@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+//login with normal html, created initial flexbox and then card with header, boxy, and nested footer flexbox 
 export default class Login extends Component {
     render() {
         return (
