@@ -1,3 +1,4 @@
+//importing all the necessary components including bootstrap nav and created logo
 import React, { Component } from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
@@ -5,6 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Logo from '../assets/logo.png';
 
+//exports the class outside of this file to get called in another. Used bootstrap navbar elements 
 export default class NavbarComp extends Component {
     render() {
         return (
