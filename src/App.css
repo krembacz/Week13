@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Segoe UI;
+  font-size: 17px;
+}
+
+.alert-banner {
+  padding: .3rem;
+  margin-bottom: 0;
+  background-color: #D9AB91;
+  height: 2rem;
+  text-align: center;
+  color: #260101;
+}
+
+.navbar {
+  background-color: #F2F2F2;
+}
+
+nav {
+  justify-content: center;
+}
+
+.center-aligned {
+  justify-content: flex-end;
+}
+
+.portal {
+  background-color: #A64444;
+  border: none;
+  padding: .6rem;
+  color: #F2F2F2;
+  justify-content: flex-end;
+}
+
+.login-btn {
+  background-color: #A64444;
+  border: none;
+  padding: .6rem;
+  color: #F2F2F2;
+  justify-content: flex-end;
+  margin-top: 1rem;
+  margin-bottom: 1rem; 
+  width: 10rem;
+}
+
+.login {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 5rem;
+}
+
+.card {
+  text-align: center;
+  width: 30rem;
+  height: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  color: #260101;
+}
+
+.card .card-header {
+  background-color: #F2F2F2; 
+  color: #260101; 
+  padding: 1rem; 
+}
+
+form {
+  padding: .5rem;
+}
+
+label {
+  margin-right: 1.5rem;
+}
+
+.login-form {
+  margin-top: .5rem; 
+}
+
+.login-footer {
+  text-align: left; 
+  padding: 1rem; 
+}
+
+.account {
+  font-size: 15px; 
+}
